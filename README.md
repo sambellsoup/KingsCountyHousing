@@ -1,4 +1,4 @@
-# Kings County Housing
+# Kings County Housing - Seattle
 Examining Housing Price Trends in Kings County / Predicting Development
 
 My goal is to examine longitudinal housing sales and tax data in Kings County in order to predict areas that are most at risk of gentrification and people who are most at risk of displacement. 
